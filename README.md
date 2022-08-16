@@ -23,3 +23,7 @@ This part of the section the code they provided uses AWS and its CLI to deploy a
 > Error: creating EC2 Instance: UnauthorizedOperation: You are not authorized to perform this operation. Encoded authorization failure message: 
 > status code: 403
 > ```
+
+Day Two:
+
+I decided to start working in different branches and then merging with master when I am satisfied with my work. I've never been comfortable with branches but since I did some GitLab stuff I think I can understand it enough to work with it. 
