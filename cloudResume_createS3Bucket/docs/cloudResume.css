@@ -1,0 +1,26 @@
+* {
+    max-width: 700px;
+    margin: auto;
+}
+
+body {
+    background-color: #92a8d1;
+}
+
+/* Flexbox */
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+    padding: 16px;
+    height: 250px;
+}
+
+
+#titleHeader {
+    text-align: center;
+    color:silver
+}
+
